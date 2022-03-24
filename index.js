@@ -8,7 +8,7 @@ f = document.querySelector(".but6");
 g = document.querySelector(".but7");
 villain = document.querySelector(".but71");
 
-x.innerHTML="Villain";
+x.innerHTML="R R R";
 a.innerHTML="Bangla Plex";
 b.innerHTML="PCV";
 c.innerHTML="Chocolate";

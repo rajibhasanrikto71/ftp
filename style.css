@@ -77,6 +77,12 @@ body
     background: linear-gradient(45deg,#1aff22,#0e1538,
     #0e1538,#ff075b);
 }
+.container a:nth-child(9):before,
+.container a:nth-child(9):after
+{
+    background: linear-gradient(45deg,#ff075b,#0e1538,
+    #0e1538,#1aff22);
+}
 .container a:before,
 .container a:after
 {
